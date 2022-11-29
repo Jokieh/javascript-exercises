@@ -31,5 +31,8 @@
     "testPathIgnorePatterns": [
       "generator-exercise/"
     ]
+  },
+  "dependencies": {
+    "test": "^3.2.1"
   }
 }
